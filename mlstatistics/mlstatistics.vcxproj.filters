@@ -23,5 +23,11 @@
     <ClInclude Include="vector_utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MapHash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="std_libs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,7 +1,4 @@
-#include<stdio.h>
-#include <math.h>
-#include<stdlib.h>
-#include <time.h>
+
 #include "vector_utils.h"
 
 
