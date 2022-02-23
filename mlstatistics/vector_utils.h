@@ -1,3 +1,4 @@
+#include "std_libs.h"
 typedef  struct vector {
 	float* data;
 	int size;

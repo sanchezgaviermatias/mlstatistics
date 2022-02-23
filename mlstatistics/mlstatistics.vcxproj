@@ -142,6 +142,8 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MapHash.h" />
+    <ClInclude Include="std_libs.h" />
     <ClInclude Include="vector_utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
