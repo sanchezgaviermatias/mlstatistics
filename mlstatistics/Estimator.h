@@ -19,11 +19,19 @@ typedef struct Estimador {
 
 
 
-Estimador estimate(char* nombre_distribucion) {
-
-	switch{
+void estimate(  char *  nombre_distribucion) {
+	if (strcmp(nombre_distribucion, "normal") == 0)
+	{
+		printf("nomral");
 	}
-
+	else if (strcmp(nombre_distribucion, "beta") == 0)
+	{
+		printf("beta");
+	}
+	else 
+	{
+		printf("no valido");
+	}
 }
 
 

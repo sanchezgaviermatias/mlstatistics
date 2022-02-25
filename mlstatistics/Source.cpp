@@ -1,5 +1,5 @@
 #include "vector_utils.h"
-#include "MapHash.h"
+#include "Estimator.h"
 
 
 
@@ -18,8 +18,9 @@ int main() {
 	//	printf("std %f\n", stand);
 
 
-	
+	char nombre[100] = "Beta";
 
+	estimate(nombre);
 
 
 }
