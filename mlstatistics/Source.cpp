@@ -17,10 +17,6 @@ int main() {
 	//	printf("varianza %f\n", varianza);
 	//	printf("std %f\n", stand);
 
-	printf("InversaNormal => %u\n", hash("InversaNormal"));
-	printf("Normal => %u\n", hash("Normal"));
-	printf("Beta => %u\n", hash("Beta"));
-
 
 	
 
